@@ -24,6 +24,7 @@ for index, data_row in enumerate(data,1):
     red = [int(i) for i in sum_list_red]
     green = [int(i) for i in sum_list_green]
     blue = [int(i) for i in sum_list_blue]
+
     largest_red = max(red)
     largest_green = max(green)
     largest_blue = max(blue)
@@ -33,5 +34,5 @@ for index, data_row in enumerate(data,1):
     if (largest_red<=max_red) and (largest_green<=max_green) and (largest_blue<=max_blue):
         sum_possible += index
 
-    print(sum_possible) 
+print(sum_possible) 
 print(sum(power))
