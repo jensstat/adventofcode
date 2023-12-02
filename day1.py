@@ -15,10 +15,9 @@ for code in data:
 
 """
 
-with open("data_folder/data.txt") as file:
+with open("data_folder/data1.txt") as file:
     data = file.readlines()
     data = [code.strip() for code in data]
-
 
 sum = 0
 for code in data:
@@ -50,7 +49,6 @@ for code in data:
     
     if len(res)>=1:
         res = int("".join([res[0], res[-1]]))
-        print(res)
         sum += res
 
 print(sum)
