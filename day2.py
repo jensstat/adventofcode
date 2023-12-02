@@ -30,7 +30,7 @@ for index, data_row in enumerate(data,1):
     power.append(largest_red*largest_green*largest_blue)
 
 
-    if (max(red)<=max_red) and (max(green)<=max_green) and (max(blue)<=max_blue):
+    if (largest_red<=max_red) and (largest_green<=max_green) and (largest_blue<=max_blue):
         sum_possible += index
 
     print(sum_possible) 
