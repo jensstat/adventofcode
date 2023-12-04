@@ -4,3 +4,6 @@ Det var en interessant utfordring å oversette tall som var skrevet som bokstave
 
 ## Dag 2
 Slet sykt med å få riktig svar på del 1. Men så leste jeg oppgaven igjen, og så at <b>hvis ett tall var større enn max_red</b> etc. så skulle gamet være umulig. Jeg trodde det var at summen av tallene til fargene skulle være mindre enn max_red. Dust å ikke lese oppgaven nøye. 
+
+## Dag 3
+Trengte litt hjelp av SS i dag. Hatet oppgaven. Men gikk seg til. Hatet b også. 
