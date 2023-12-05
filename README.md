@@ -7,3 +7,6 @@ Slet sykt med å få riktig svar på del 1. Men så leste jeg oppgaven igjen, og
 
 ## Dag 3
 Trengte litt hjelp av SS i dag. Hatet oppgaven. Men gikk seg til. Hatet b også. 
+
+## Dag 4
+Enklere enn de andre dagene. Trengte litt trim på dag 2. Koden kunne vært finere.
