@@ -10,3 +10,6 @@ Trengte litt hjelp av SS i dag. Hatet oppgaven. Men gikk seg til. Hatet b også.
 
 ## Dag 4
 Enklere enn de andre dagene. Trengte litt trim på dag 2. Koden kunne vært finere.
+
+## Dag 5
+Forferdelig lang tekst. Tok meg en dag å lese den. Men a) gikk greit nok.
