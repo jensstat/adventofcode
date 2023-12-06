@@ -24,7 +24,6 @@ for row in range(len(dataset)):
             for i in range(-1, 2):
                 if 0 <= row + i < len(dataset):
                     row_adj = dataset[row + i] 
-                    #col_adj = col - 1 if col - 1 > 0 else col
                     col_adj = max(col - 1, 0)
                     while col_adj <= col + 1:
                         if 0 <= col_adj < len(row_adj) and row_adj[col_adj] in nums:
