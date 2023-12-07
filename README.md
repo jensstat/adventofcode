@@ -12,4 +12,7 @@ Trengte litt hjelp av SS i dag. Hatet oppgaven. Men gikk seg til. Hatet b også.
 Enklere enn de andre dagene. Trengte litt trim på dag 2. Koden kunne vært finere.
 
 ## Dag 5
-Forferdelig lang tekst. Tok meg en dag å lese den. Men a) gikk greit nok.
+Forferdelig lang tekst. Tok meg en dag å lese den. Men a) gikk greit nok. b) tar for lang tid, så må se om jeg kan raske den opp
+
+## Dag 6
+Endelig en digg oppgave :P

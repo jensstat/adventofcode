@@ -1,4 +1,4 @@
-with open("data_folder/data5b.txt") as file:
+with open("data_folder/data5.txt") as file:
     dataset = [code.strip() for code in file.readlines()]
 
 seeds = [int(seed) for seed in dataset[0].split()[1:]]
@@ -16,6 +16,7 @@ map_list.append(tmp)
 
 destination = []
 locations = []
+
 for seed in seeds:
     for count, val in enumerate(map_list):
         for i, range in enumerate(val[1:]):
